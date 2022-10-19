@@ -30,13 +30,6 @@ def test_Vlad_5():
     for x in city:
       print(x)
         
-#test_Vlad_5() 
-
-def test_Vlad_6(vl):
-    while vl < 100:
-      print(vl)
-      vl += 5
-
 =======
 #!/bin/python3
 

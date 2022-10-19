@@ -25,15 +25,7 @@
         "last_name": "Snow",
         "lng": "uk",
         "phone": [
-            {
-                "_id": "6294f598f797ad2c2556f4b7",
-                "full_number": "+380979725091",
-                "short_number": "979725091",
-                "country": "Ukraine (Україна)",
-                "iso2": "ua",
-                "dial_code": "380"
-            }
-        ],
+                   ],
         "birthday": "1984-06-20T00:00:00.000Z",
         "gender": "male",
         "group_roles": {

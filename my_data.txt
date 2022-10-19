@@ -1,0 +1,86 @@
+{
+    "success": true,
+    "response": {
+        "_id": "6294f61ef797ad2c2556f4cc",
+        "gender_hide": true,
+        "birthday_hide": true,
+        "phone_hide": true,
+        "email_hide": true,
+        "avatars": [
+            {
+                "_id": "6294f604f797ad2c2556f4c5",
+                "destination": "uploads/images",
+                "filename": "d25ceccfe33cf1323c094b59e02ae795.jpg"
+            }
+        ],
+        "roles": [
+            "student"
+        ],
+        "courses": [
+            "5b9de7f9de1038dbaafc2dbd"
+        ],
+        "lang_certificate": "en",
+        "email": "gybin.v@gmail.com",
+        "first_name": "John",
+        "last_name": "Snow",
+        "lng": "uk",
+        "phone": [
+            {
+                "_id": "6294f598f797ad2c2556f4b7",
+                "full_number": "+380979725091",
+                "short_number": "979725091",
+                "country": "Ukraine (Україна)",
+                "iso2": "ua",
+                "dial_code": "380"
+            }
+        ],
+        "birthday": "1984-06-20T00:00:00.000Z",
+        "gender": "male",
+        "group_roles": {
+            "627ba4c54ff8c953098a4aea": {
+                "group": "627ba4c54ff8c953098a4aea",
+                "role": "student",
+                "access": {
+                    "lessons": [],
+                    "start_lesson": 1
+                }
+            }
+        },
+        "telegram_id": 891028617,
+        "filters": {
+            "dashboard_group_list": {
+                "group_status": "active",
+                "group_role": "all"
+            },
+            "lesson_list": {
+                "groups": {
+                    "627ba4c54ff8c953098a4aea": {
+                        "lesson_host": "all",
+                        "future_lesson": true
+                    }
+                }
+            },
+            "homework_list": {
+                "groups": {
+                    "627ba4c54ff8c953098a4aea": {
+                        "homework_type": "any",
+                        "homework_status": "all"
+                    }
+                }
+            }
+        },
+        "groups_archive": {
+            "student": 0
+        },
+        "groups_active": {
+            "student": 1
+        },
+        "groups": [
+            "627ba4c54ff8c953098a4aea"
+        ],
+        "unread_notifications": 3,
+        "user_have_balance": true,
+        "balance": 0,
+        "unread_updates": false
+    }
+}

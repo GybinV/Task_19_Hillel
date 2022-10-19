@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+#!/bin/python3
+
+def test_Vlad_1(our_parameter):
+    if our_parameter >= "95":
+      print("uspeh")
+    else:
+      print("Fiasko" + our_parameter + " ne to chislo")
+#test_Vlad("94")
+
+def test_Vlad_2():
+    for x in "Vlad":
+      print(x)
+        
+#test_Vlad_2()
+
+
+def test_Vlad_3():
+    fruits = ["apple", "banana", "cherry"]
+    for x in fruits:
+      print(x)
+        
+     
+#test_Vlad_4() 
+
+
+def test_Vlad_5():
+    city = ["Kyiv", "Lviv", "Kharkiv"]
+    city.append("Odesa")
+    for x in city:
+      print(x)
+        
+#test_Vlad_5() 
+
+def test_Vlad_6(vl):
+    while vl < 100:
+      print(vl)
+      vl += 5
+
+=======
+#!/bin/python3
+
+def test_Vlad_1(our_parameter):
+    if our_parameter >= "95":
+      print("uspeh")
+    else:
+      print("Fiasko" + our_parameter + " ne to chislo")
+#test_Vlad("94")
+
+def test_Vlad_2():
+    for x in "Vlad":
+      print(x)
+        
+#test_Vlad_2()
+
+
+def test_Vlad_3():
+    fruits = ["apple", "banana", "cherry"]
+    for x in fruits:
+      print(x)
+        
+#test_Vlad_3()   
+
+
+def test_Vlad_4():
+    fruits = ["apple", "banana", "cherry"]
+    print(fruits[0])
+        
+#test_Vlad_4() 
+
+
+def test_Vlad_5():
+    city = ["Kyiv", "Lviv", "Kharkiv"]
+    city.append("Odesa")
+    for x in city:
+      print(x)
+        
+#test_Vlad_5() 
+
+def test_Vlad_6(vl):
+    while vl < 100:
+      print(vl)
+      vl += 5
+
+>>>>>>> 1a39a782a6783f49ce41fffad51a128fa5bcf79f
+#test_Vlad_6(1)
